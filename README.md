@@ -1,5 +1,4 @@
-# informe-5
-# INFORME
+# INFORME-5
 
 ## OBJETIVOS
 
