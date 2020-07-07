@@ -122,51 +122,20 @@ Arme el circuito que se muestra en la figura 1.1.
 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla
 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-***Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.***
-|VARIABLE      |VALOR CALCULADO                   |  VALOR MEDIDO                       |
-|----------------|-------------------------------|-------|
-|**VR1(V)**  |2.053[V] |2.05[V]|
-|**IR1(mA)** |2.053[mA]|2.05[mA]|
-|**VR2(V)**  |4.243[V] |4.25[V]|
-|**IR2(mA)** |1.084[mA]|1.09[mA]|
-|**VR3(V)**  |2.120[V] |2.12[V]|
-|**IR3(mA)** |0.964[mA]|0.965[mA]|
-|**VR4(V)**  |2.12[V]  |2.12[V]|
-|**IR4(mA)** |0.963[mA]|0.965[mA]|
-|**VR5(V)**  |3.695[V] |3.70[V]|
-|**IR5(mA)** |2.053[mA]|2.05[mA]|
+***Tabla 5.1. Valores del Circuito Equivalente de Thévenin.***
+|             |VTH(V)           |RTH(Ω)|
+|-------------|-----------------|---------------------|
+|**Calculado**|5.05[V]          |298[Ω]|
+|**Medido**   |4.81[V]          |4.80[V]|
 
-Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la siguiente tabla.
+***Tabla 5.2. Comprobación del Teorema de Thévenin.***
+|Parámetro Eléctrico| Circuito Original||Circuito Equivalente de Thévenin Eléctrico||
+|-----------|-----------|----------------|----------------------|---|---|---|
+|                   |**Calculado** |**Medido**|**Calculado**|**Medido**|
+|**Voltaje (V)**    |5.05[V]       |298[Ω]    |5.05[V]||
+|**Corriente (mA)** |0[V]          |0[V]      |3.89[mA]||
 
 
-***Tabla 1.2. Verificación de la LVK.***
-
-|  |TRAYECTORIA 1|| TRAYECTORIA 2||TRAYECTORIA 3 ||
-|---------|---------|---------|---------|---------|---------|---------|
-|**VOLTAJE**|**Calculado**|**Medido**|**Calculado**|**Medido** |**Calculado**|**Medido**|
-|**VT(V)**  |10[V]        |10[V]     |10[V]        |10[V]      |10[V]        |10[V]|
-|**VR1(V)** |2.065[V]     |2.05[V]   |2.067[V]     |2.05[V]    |-            |-|
-|**VR2(V)** |-            |-         |4.243[V]     |4.25[V]    |5.70[V]      |4.25[V]|
-|**VR3(V)** |2.13[V]      |2.12[V]   |-            |-          |2.18[V]      |2.12[V]|
-|**VR4(V)** |2.13[V]      |2.12[V]   |-            |-          |2.18[V]      |2.12[V]|
-|**VR5(V)** |3.69[V]      |3.70[V]   |3.69[V]      |3.70[V]    |-            |-|
-|$$\sum V\:$$|20.015[V]   |20.09[V]  |20[V]        |20[V]      |20.06[V]     |18.49[V]|
-
-Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla.
-
-
-**Tabla 1.3. Verificación de la LCK.**
-
-|  |NODO 1||NODO 2||NODO 3 ||NODO 4||NODO 5||
-|--|-------------|-|-------------|-|--------------|-|--------------|-|---|-|
-|**CORRIENTE**|**Calculado**|**Medido**|**Calculado**|**Medido** |**Calculado**|**Medido**|**Calculado**|**Medido**|**Calculado**|**Medido**|
-|**RT(mA)**   |2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|
-|**IR1(mA)**  |2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|2.057[mA]|2.05[mA]|-|-|-|-|
-|**IR2(mA)**  |1.087[mA] |1.09[mA]|1.087[mA]|1.098[mA]|-|-|-|-|-|-|
-|**IR3(mA)**  |0.967[mA] |0.95[mA]|0.967[mA]|0.95[mA]|-|-|0.967[mA]|0.95[mA]|-|-|
-|**IR4(mA)**  |0.967[mA] |0.95[mA]|0.967[mA]|0.95[mA]|-|-|0.967[mA]|0.95[mA]|-|-|
-|**IR5(mA)**  |2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|-|-|-|-|2.057[mA] |2.05[mA]|
-|$$\sum I\:$$ |9.192[mA] |9.14[mA]|9.1926[mA]|9.14[mA]|4.114[mA]|4.1[mA]|3.9[mA]|3.97[mA]|4.11[mA] |4.1[mA]|
 
 
 ## **DIAGRAMAS**
