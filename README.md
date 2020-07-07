@@ -129,6 +129,7 @@ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 |**Medido**   |4.81[V]          |4.80[V]|
 
 ***Tabla 5.2. Comprobación del Teorema de Thévenin.***
+
 |Parámetro Eléctrico| Circuito Original||Circuito Equivalente de Thévenin Eléctrico||
 |-----------|-----------|----------------|----------------------|---|---|---|
 |                   |**Calculado** |**Medido**|**Calculado**|**Medido**|
