@@ -130,10 +130,10 @@ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
 ***Tabla 5.2. Comprobación del Teorema de Thévenin.***
 |Parámetro Eléctrico| Circuito Original||Circuito Equivalente de Thévenin Eléctrico||
-|-----------|-----------|----------------|----------------------|---|---|---|
+|-------------------|--------------|---|-------------------------------------------|---|
 |                   |**Calculado** |**Medido**|**Calculado**|**Medido**|
-|**Voltaje (V)**    |5.05[V]       |298[Ω]    |5.05[V]||
-|**Corriente (mA)** |0[V]          |0[V]      |3.89[mA]||
+|**Voltaje (V)**    |5.05[V]       |298[Ω]    |5.05[V]      |0[V] |
+|**Corriente (mA)** |0[V]          |0[V]      |3.89[mA]     |0[mA] |
 
 
 
