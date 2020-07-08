@@ -15,14 +15,12 @@ Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
        propuesto, demostrando el Teorema de Thévenin.
 ## MARCO TEÓRICO
 
-**_Gustav Robert Kirchhoff (1824 - 1887)_**
-
 “Se aplica a circuitos lineales con una carga que puede ser lineal o no lineal, variantes o invariantes con el tiempo cuyo estado energético sea nulo o no. Permite reemplazar un circuito de análisis complejo por uno equivalente de menos tamaño que facilite el cálculo de los efectos externos (circuito equivalente), puede usar en sistemas de potencia para analizar partes de él y reemplazando en resto del sistema de esta forma.” (Vásquez, s. f.)
 
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/Gustav_Robert_Kirchhoff.jpg"
-          alt="Gustav Robert Kirchhoff (1824 - 1887)"
+        <img src="img/0000.PNG"
+          alt=""
           height="300"
           style ="float-left ml-4"
         />           
