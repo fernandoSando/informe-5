@@ -188,7 +188,7 @@ Se establecen en función del proyecto y constituyen la base para un funcionamie
 
  </section>
       <div class="container mt-5 mb-5">
-        <img src="img/000.jpg"
+        <img src="img/000.JPG"
           alt="Cronograma de actividades del informe"
           height="400"
           style ="float-left ml-4"
