@@ -142,14 +142,13 @@ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 ## **DIAGRAMAS**
 <section>
       <div class="container mt-5 mb-5">
-        <img src="0.jpg"
-          alt="Protoboard con multiples resistencias"
-          height="203"
+        <img src="img/0.jpg"
+          alt="Fuente de voltaje C.D."
+          height="100"
           style ="float-left ml-4"
         />           
    </div>
    </section>
-  
    
 ## **LISTA DE COMPONENTES**
 
