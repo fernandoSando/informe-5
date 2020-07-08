@@ -144,7 +144,7 @@ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
       <div class="container mt-5 mb-5">
         <img src="img/0.jpg"
           alt="Fuente de voltaje C.D."
-          height="100"
+          height="300"
           style ="float-left ml-4"
         />           
    </div>
