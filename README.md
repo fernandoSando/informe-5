@@ -56,7 +56,7 @@ Para mayor entendimiento de este teorema, se refiere que a cualquier circuito se
    </div>
    </section>
 
-**Resistores** de 1kΩ, 2.2kΩ, 1.8kΩ y 3.9kΩ. Los utilizaremos para crear el circuito que vamos a medir
+**Resistores** de 1kΩ, 100Ω, 330Ω, 4.7kΩ y 560Ω. Los utilizaremos para crear el circuito que vamos a medir
 </section>
       <div class="container mt-5 mb-5">
         <img src="img/7.PNG"
