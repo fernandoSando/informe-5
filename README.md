@@ -132,7 +132,7 @@ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 |Parámetro Eléctrico| Circuito Original||Circuito Equivalente de Thévenin Eléctrico||
 |-------------------|--------------|---|-------------------------------------------|---|
 |                   |**Calculado** |**Medido**|**Calculado**|**Medido**|
-|**Voltaje (V)**    |5.05[V]       |3.89[V]      |5.05[V]      |3.85[V] |
+|**Voltaje (V)**    |3.89[V]       |3.89[V]      |3.89[V]      |3.85[V] |
 |**Corriente (mA)** |3.89[mA]      |3.89[mA]      |3.89[mA]     |3.85[mA] |
 
 
