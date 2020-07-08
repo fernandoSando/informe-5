@@ -21,7 +21,7 @@ Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
       <div class="container mt-5 mb-5">
         <img src="img/0000.png"
           alt=""
-          height="300"
+          height="200"
           style ="float-left ml-4"
         />           
    </div>
@@ -86,7 +86,7 @@ Arme el circuito que se muestra en la figura 5.1.
       <div class="container mt-5 mb-5">
         <img src="img/00000.PNG"
           alt="Digrama del circuito"
-          height="200"
+          height="150"
           style ="float-left ml-4"
         />           
    </div>
@@ -190,7 +190,5 @@ Vásquez, J. R. G. (s. f.). TEOREMAS FUNDAMENTALES DE CIRCUITOS ELÉCTRICOS. 251
 
 
 ## **ANEXOS**
-
-https://github.com/fernandoSando/Informe/tree/master/Anexos
-
+https://github.com/fernandoSando/informe-5/tree/master/Anexos
  
