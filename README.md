@@ -142,32 +142,14 @@ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 ## **DIAGRAMAS**
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/10.PNG"
+        <img src="0.PNG"
           alt="Protoboard con multiples resistencias"
           height="203"
           style ="float-left ml-4"
         />           
    </div>
    </section>
-   </section>
-      <div class="container mt-5 mb-5">
-        <img src="img/11.PNG"
-          alt="Protoboard con Voltimetros
-          height="197"
-          style ="float-left ml-4"
-        />           
-   </div>
-   </section>
-   </section>
-      <div class="container mt-5 mb-5">
-        <img src="img/12.PNG"
-          alt="Protoboard con Amperimetros"
-          height="226"
-          style ="float-left ml-4"
-        />           
-   </div>
-   </section>                                  
-                                  
+  
    
 ## **LISTA DE COMPONENTES**
 
