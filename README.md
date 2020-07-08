@@ -155,7 +155,7 @@ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
  </section>
       <div class="container mt-5 mb-5">
-        <img src="img/13.jpg"
+        <img src="img/00.jpg"
           alt="listado de todos los componentes utilizados para el circuito"
           height="400"
           style ="float-left ml-4"
@@ -188,7 +188,7 @@ Se establecen en función del proyecto y constituyen la base para un funcionamie
 
  </section>
       <div class="container mt-5 mb-5">
-        <img src="img/14.PNG"
+        <img src="img/000.jpg"
           alt="Cronograma de actividades del informe"
           height="400"
           style ="float-left ml-4"
