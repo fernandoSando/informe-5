@@ -148,17 +148,11 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 ## **CONCLUSIONES**
 
-Con esta práctica se pudo adquirir los conocimientos teóricos de lo que son las resistencias,
+El teorema de Thévenin se basa en el análisis de los circuitos con el propósito de poder encontrar el voltaje de un circuito abierto, hallando matemáticamente y experimental los valores correspondientes, que consiste, que el valor de las resistencias puede ser reemplazada o sustituida por otra fuente de tensión.
 
-su tipo y su clasificación de acuerdo al circuito montado que son en serio o paralelo.
+En conclusión, emplear el teorema de Thévenin resulta practico para reducir componentes, aparte de considerar la comprobación de los resultados mediante un simulador y evidenciar que el porcentaje de error es mínimo.
 
-Deducimos según ley de Kirchhoff que expone que cuando en un circuito intervienen dos o más fuentes de corriente, además de ramificaciones estamos en presencia de una red eléctrica. Para que resolvamos una red eléctrica es necesario realizar un proceso en el cual calculamos las intensidades de corrientes que circulan por cada rama, conocidas las características de todos los elementos ubicados en la red.
-
-Para el análisis completo de un circuito eléctrico requiere conocer la corriente que fluye en cada una de sus ramas para lo cual usamos la ley de corriente y ley de voltaje de Kirchhoff y para establecer ecuaciones que relacionan las corrientes y necesitamos tantas ecuaciones lineal mente independientes como ramas hay a fin de asegura que podemos obtener las soluciones del sistema.
-
-La regla de la corriente no es suficiente para efectuar el análisis completo de algún circuito, lo mejor es escribir tantas ecuaciones como sea posible para los nodos y luego aumentarlas con ecuaciones obtenidas a partir de los bucles; de lo cual resulta mejor escoger el bucle con el menor número de elementos de circuito lo cual hace que en lo posterior los procedimientos algebraicos se simplifiquen.
-
-Las leyes de Kirchhoff han sido una gran ayuda para la innovación tecnológica ya que han permitido medir con exactitud ciertas características eléctricas necesarias para que el invento funcione óptima mente.
+Al acabar la simulación, se concluye que todo circuito lineal activo puede ser reducido por un circuito equivalente serie (Thévenin), confirmando  su utilidad.
 
 ## **RECOMENDACIONES**
 
