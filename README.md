@@ -126,14 +126,14 @@ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 |             |VTH(V)           |RTH(Ω)|
 |-------------|-----------------|---------------------|
 |**Calculado**|5.05[V]          |298[Ω]|
-|**Medido**   |5.00[V]          |298[Ω]|
+|**Medido**   |5.06[V]          |299[Ω]|
 
 ***Tabla 5.2. Comprobación del Teorema de Thévenin.***
 |Parámetro Eléctrico| Circuito Original||Circuito Equivalente de Thévenin Eléctrico||
 |-------------------|--------------|---|-------------------------------------------|---|
 |                   |**Calculado** |**Medido**|**Calculado**|**Medido**|
-|**Voltaje (V)**    |5.05[V]       |5.00[V]   |5.05[V]      |5.00[V] |
-|**Corriente (mA)** |3.89[mA]      |3.85[mA]  |3.89[mA]     |3.89[mA] |
+|**Voltaje (V)**    |5.05[V]       |3.89[V]      |5.05[V]      |3.85[V] |
+|**Corriente (mA)** |3.89[mA]      |3.89[mA]      |3.89[mA]     |3.85[mA] |
 
 
 
