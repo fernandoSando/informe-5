@@ -19,7 +19,7 @@ Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/0000.PNG"
+        <img src="img/0000.png"
           alt=""
           height="300"
           style ="float-left ml-4"
@@ -80,10 +80,11 @@ Para mayor entendimiento de este teorema, se refiere que a cualquier circuito se
 
 ## **PROCEDIMIENTO**
 
-Arme el circuito que se muestra en la figura 1.1.
+Arme el circuito que se muestra en la figura 5.1.
+
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/9.PNG"
+        <img src="img/00000.PNG"
           alt="Digrama del circuito"
           height="200"
           style ="float-left ml-4"
@@ -92,8 +93,16 @@ Arme el circuito que se muestra en la figura 1.1.
    </section>
 
 
-Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla
-Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+ Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
+ 
+ Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
+medido en la tabla 5.1.
+
+Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
+abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
+
+ Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
+corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 ***Tabla 5.1. Valores del Circuito Equivalente de Thévenin.***
 |             |VTH(V)           |RTH(Ω)|
