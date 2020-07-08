@@ -1,22 +1,24 @@
 # INFORME-5
+# Teorema de Thévenin
+
 
 ## OBJETIVOS
 
-
-Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes investigación.
+Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 
 **Objetivos específicos:** 
  - Identificar en el circuito las mediciones de voltajes correspondiente
-   a las resistencias.
- - Demostrar si se cumple la ley de Kirchhoff de voltajes y de   
-   corrientes en el circuito propuesto.   
+   a las resistencias segun el Teorema de Thévenin.
+ - Demostrar si se cumple el Teorema de Thévenin con el voltaje y la   
+   corriente en el circuito propuesto.   
  - Comprobar los resultados y los datos necesarios  del  circuito 
-       propuesto, demostrando la ley de Kirchhoff.
+       propuesto, demostrando el Teorema de Thévenin.
 ## MARCO TEÓRICO
 
 **_Gustav Robert Kirchhoff (1824 - 1887)_**
 
-Como todo lo que existe tiene una inicio, en este caso Robert es el padre de lo que hoy conocemos como las Leyes que llevan su apellido, sin el muchas de los cas que se realizan en los circuitos eléctricos no podrían ser posibles de tener matemáticamente, su breve historia es: “Físico de origen alemán que realizó numerosas aportaciones a la ciencia, destacando las que hizo en espectroscopía, en la óptica, en los circuitos eléctricos y en la emisión de cuerpo negro, entre otras. Llegó a ser muy conocido por sus leyes en los circuitos eléctricos, ampliamente utilizadas en la  ingeniería  eléctrica las cuales se basan en dos principios fundamentales de la Física.” (Cedeño, Gil, & Pérez, 2016)
+“Se aplica a circuitos lineales con una carga que puede ser lineal o no lineal, variantes o invariantes con el tiempo cuyo estado energético sea nulo o no. Permite reemplazar un circuito de análisis complejo por uno equivalente de menos tamaño que facilite el cálculo de los efectos externos (circuito equivalente), puede usar en sistemas de potencia para analizar partes de él y reemplazando en resto del sistema de esta forma.” (Vásquez, s. f.)
+
 <section>
       <div class="container mt-5 mb-5">
         <img src="img/Gustav_Robert_Kirchhoff.jpg"
@@ -26,38 +28,11 @@ Como todo lo que existe tiene una inicio, en este caso Robert es el padre de lo 
         />           
    </div>
    </section>
-   Nodos: Punto en el que se conectan dos o más elementos de un circuito.
-Lazos: Camino que da la corriente.
-Ramas: La unión de 2 nodos.
+  
 
-**Primera Ley (Ley de Corrientes de Kirchhoff)**
-
-“La suma de las corrientes que entran a un nodo (corriente total de entrada) es igual a la suma de las corrientes que salen de dicho nodo (corriente total de salida).” (Ricárdez, Bastién Montoya, Hernández, & H. S., 2017). Explica que la suma de todas las intensidades en un nodo especifico es igual a 0
-<section>
-      <div class="container mt-5 mb-5">
-        <img src="img/2.PNG"
-          alt="Primera Ley (Ley de Corrientes de Kirchhoff)"
-          height="300"
-          style ="float-left ml-4"
-        />           
-   </div>
-   </section>
+Para mayor entendimiento de este teorema, se refiere que a cualquier circuito se le puede reducir a solo una fuente con 2 resistores, para un calculo mucho mas fácil, y para lograrlo se debe quitar el elemento a analizar y encontrar un voltaje entre los puntos donde estaba ese elemento y la resistencia equivalente de los demás elementos del circuito, para el calculo de resistencia equivalente las fuentes de tensión se convierten en cortocircuitos y las de corriente en circuitos abiertos. Así con esos 2 valores denominados Resistencia de Thévenin (RTH) y voltaje de Thévenin (VTH) para esa resistencia equivalente conseguida y ese voltaje de los puntos a y b respectivamente. Una vez con esos datos se vuelve a introducir el elemento en cuestión a calcular y re desarrolla el circuito
 
 
-𝐼𝑡 = 𝐼1 + 𝐼2 + 𝐼3 + ⋯  𝐼𝑛
-
-**Segunda Ley (Ley de voltajes)**
- “En un circuito, la suma de todas las caídas de voltaje localizadas en una trayectoria cerrada única es igual al voltaje de fuente total encontrado en dicha espira.” (Ricárdez, Bastién Montoya, Hernández, & H. S., 2017). Esta ley está enfocada, a diferencia de la anterior, en los voltajes, aunque, lleva una premisa parecida; en los lazos la sumatoria de todos los voltajes va a ser igual a 0. 
- <section>
-      <div class="container mt-5 mb-5">
-        <img src="img/3.PNG"
-          alt="Segunda Ley (Ley de voltajes)"
-          height="300"
-          style ="float-left ml-4"
-        />           
-   </div>
-   </section>
-𝑉𝑡 = 𝑉1 +𝑉2 + 𝑉3 + ⋯  𝑉𝑛
 
 ## **DESCRIPCIÓN DE LOS EQUIPOS Y MATERIALES**
 
@@ -201,15 +176,9 @@ Se establecen en función del proyecto y constituyen la base para un funcionamie
 
 # **BIBLIOGRÁFICA**
 
-Cedeño, J. C., Gil, J. M., & Pérez, F. M. (8 de 08 de 2016). Leyes de Kirchhoff. _Leyes de Kirchhoff_. Mexico.
+William H. Hayt, J., Kemmerly, J. E., & Durbin, S. M. (2012). Análisis de circuitos en ingenieria. Buffalo: Mc Graw Hill.
+Vásquez, J. R. G. (s. f.). TEOREMAS FUNDAMENTALES DE CIRCUITOS ELÉCTRICOS. 251.
 
-_Imagen_. (s.f.). Recuperado el 2 de 6 de 2020, de Wikipedia, la enciclopedia libre: http://commons.wikimedia.org/wiki/File:Gustav_Robert_Kirchhoff.jpg
-
-_Imagen_. (s.f.). Recuperado el 2 de 6 de 2020, de Wikipedia, la enciclopedia libre: http://commons.wikimedia.org/wiki/File:KCL_-_Kirchhoff's_circuit_laws.svg
-
-_Imagen_. (s.f.). Recuperado el 2 de 6 de 2020, de Wikipedia, la enciclopedia libre: http://commons.wikimedia.org/wiki/File:Kirshhoff-example.svg
-
-Ricárdez, A., Bastién Montoya, M., Hernández, B., & H. S., R. S. (2017). Estrategias para Resolver Problemas de Introducción a la Electrostática y Magnetostática. Ciudad de Mexico.
 
 
 
