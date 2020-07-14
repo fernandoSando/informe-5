@@ -137,7 +137,7 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
  </section>
       <div class="container mt-5 mb-5">
-        <img src="img/00.jpg"
+        <img src="img/02.jpg"
           alt="listado de todos los componentes utilizados para el circuito"
           height="400"
           style ="float-left ml-4"
