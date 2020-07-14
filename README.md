@@ -124,7 +124,7 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 ## **DIAGRAMAS**
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/0.jpg"
+        <img src="img/01.jpg"
           alt="Fuente de voltaje C.D."
           height="500"
           style ="float-left ml-4"
