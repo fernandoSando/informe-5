@@ -81,7 +81,7 @@ Para mayor entendimiento de este teorema, se refiere que a cualquier circuito se
 **Potenciómetro.** Un potenciómetro es un resistor eléctrico con un valor de resistencia variable y generalmente ajustable manualmente.
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/03.PNG"
+        <img src="img/03.jpg"
           alt="Protoboard"
           height="100"
           style ="float-left ml-4"
