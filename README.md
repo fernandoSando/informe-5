@@ -114,8 +114,8 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 |Parámetro Eléctrico| Circuito Original||Circuito Equivalente de Thévenin Eléctrico||
 |-------------------|--------------|---|-------------------------------------------|---|
 |                   |**Calculado** |**Medido**|**Calculado**|**Medido**|
-|**Voltaje (V)**    |3.89[V]       |3.90[V]      |3.89[V]      |3.90[V] |
-|**Corriente (mA)** |3.89[mA]      |3.90[mA]     |3.89[mA]     |3.90[mA] |
+|**Voltaje (V)**    |3.89[V]       |3.89[V]      |3.89[V]      |3.90[V] |
+|**Corriente (mA)** |3.89[mA]      |3.89[mA]     |3.89[mA]     |3.90[mA] |
 
 
 
